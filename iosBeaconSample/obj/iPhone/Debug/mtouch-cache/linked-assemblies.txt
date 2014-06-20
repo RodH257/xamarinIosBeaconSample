@@ -1,0 +1,4 @@
+/Users/rodh257/Documents/Dev/Xamarin/iosBeaconSample/iosBeaconSample/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/rodh257/Documents/Dev/Xamarin/iosBeaconSample/iosBeaconSample/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+/Users/rodh257/Documents/Dev/Xamarin/iosBeaconSample/iosBeaconSample/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/rodh257/Documents/Dev/Xamarin/iosBeaconSample/iosBeaconSample/obj/iPhone/Debug/mtouch-cache/Link/iosBeaconSample.exe

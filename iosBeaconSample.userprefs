@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iosBeaconSample/iosBeaconSampleViewController.cs">
+    <Files>
+      <File FileName="iosBeaconSample/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="iosBeaconSample/iosBeaconSampleViewController.cs" Line="41" Column="27" />
+      <File FileName="iosBeaconSample/Entitlements.plist" />
+      <File FileName="iosBeaconSample/Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
